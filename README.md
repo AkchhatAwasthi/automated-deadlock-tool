@@ -19,7 +19,7 @@ A Python-based *Deadlock Detection Tool* with a *Tkinter GUI* that uses the *Ban
 1. Clone the repository:  
    sh
    git clone https://github.com/AkchhatAwasthi/automated-deadlock-tool.git
-   cd deadlock-detection-tool
+   cd automated-deadlock-tool
      
 2. Install dependencies:  
    sh
